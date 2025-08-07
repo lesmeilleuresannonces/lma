@@ -48,7 +48,8 @@ def main():
         "https://www.2ememain.be/l/autos/#f:10882|Language:all-languages|sortBy:SORT_INDEX|sortOrder:DECREASING",
         "https://www.2ememain.be/l/autos/#f:10882|Language:all-languages|PriceCentsTo:300000|sortBy:SORT_INDEX|sortOrder:DECREASING",
         "https://www.2ememain.be/l/autos/#f:10882|Language:all-languages|PriceCentsTo:300000|mileageTo:100001|sortBy:SORT_INDEX|sortOrder:DECREASING",
-        "https://www.2ememain.be/l/autos/f/essence/473/#f:10882,13838|Language:all-languages|PriceCentsTo:300000|mileageTo:100001|sortBy:SORT_INDEX|sortOrder:DECREASING"
+        "https://www.2ememain.be/l/autos/f/essence/473/#f:10882,13838|Language:all-languages|PriceCentsTo:300000|mileageTo:100001|sortBy:SORT_INDEX|sortOrder:DECREASING",
+        "https://www.2ememain.be/l/autos/#q:gratuit|Language:all-languages|sortBy:SORT_INDEX|sortOrder:DECREASING"
 
 
         # "https://www.2ememain.be/l/autos/", # All Autos (Pas récents)
